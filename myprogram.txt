@@ -1,0 +1,11 @@
+ var a , b,i,N : Integer; samunpidor: String;
+begin
+a:=1;
+samunpidor := "samunpidor ";
+b:= 2;
+c := a+ b ;
+while i <= N do 
+  begin
+     i := i+ 3;
+  end;
+end
